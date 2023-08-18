@@ -1,9 +1,13 @@
-# sigpl23-tutorial
+# SIGPL 2023 튜토리얼: 손에 잡히는 프로그래밍 언어 모델 구현
 
 ## 준비물
 - Google 계정
 - Github 계정
 
+## 강의 자료
+- [슬라이드](slide.pdf)
+- [1교시 실습 자료](1_Concepts.ipynb)
+- [2교시 실습 자료](2_Fine_tuning.ipynb)
 
 ## Colab 에서 ipynb 사용 방법
 1. Colab 에 GitHub 계정 연결:
